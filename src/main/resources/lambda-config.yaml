@@ -1,2 +1,2 @@
-sqsUrl: https://sqs.ap-south-1.amazonaws.com/339713006796/demo-serverless-sqs
-awsRegion: ap-south-1
+sqsUrl: --url of your aws sqs queue
+awsRegion: sap-south-1
